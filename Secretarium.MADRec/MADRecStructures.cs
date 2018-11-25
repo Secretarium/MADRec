@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Secretarium.Excel
+namespace Secretarium.MADRec
 {
     public class MADRecContrib
     {

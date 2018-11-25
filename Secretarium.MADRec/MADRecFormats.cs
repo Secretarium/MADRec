@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace Secretarium.Excel
+namespace Secretarium.MADRec
 {
-    class MADRecFormats
+    public static class MADRecFormats
     {
         public static List<string> MADREC_FIELDS = new List<string> { "LEI", "BIC", "EMIR", "NACE", "IF", "GK", "PERMID" };
 
