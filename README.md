@@ -2,4 +2,8 @@
 .Net helpers for MADRec
 Includes Ms Excel Add-in based on ExcelDNA
 
-![Excel Snapshot](https://github.com/Secretarium/Secretarium.MADRec/blob/master/Github/snapshot.png)
+# Instructions
+See https://github.com/Secretarium/MADRec/wiki/Instructions
+
+# Snapshots
+![Excel Snapshot](https://github.com/Secretarium/MADRec/blob/master/Github/snapshot.png)
