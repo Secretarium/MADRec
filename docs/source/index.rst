@@ -6,7 +6,7 @@
 Welcome to MADRec's documentation!
 ==================================
 
-.. include:: ../../README.rst
+.. include:: ../../README.md
 
 |
 |
@@ -16,6 +16,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
    BasicIntroduction
    TechnicalIntroduction
 
