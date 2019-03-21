@@ -6,7 +6,7 @@
 Welcome to MADRec's documentation!
 ==================================
 
-.. include:: ../../README.md
+.. include:: ../README.rst
 
 |
 |
