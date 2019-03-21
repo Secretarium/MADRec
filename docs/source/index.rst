@@ -6,10 +6,18 @@
 Welcome to MADRec's documentation!
 ==================================
 
+.. include:: ../../README.rst
+
+|
+|
+
+Table of Contents
+-----------------
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   BasicIntroduction
+   TechnicalIntroduction
 
 
 Indices and tables
