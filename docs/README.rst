@@ -11,6 +11,7 @@ See https://github.com/Secretarium/MADRec/wiki/Instructions
 Snapshots
 =========
 
-.. image:: source/_static/snapshot.png
+.. image:: https://github.com/Secretarium/MADRec/blob/master/Github/snapshot.png
+   :target: https://madrec.readthedocs.io/en/latest/
    :align: center
    :alt: Excel Snapshot
