@@ -26,24 +26,15 @@ The Secretarium platform is the fruit of a number of Blockchain and cryptography
 environments to achieve strong security and privacy guaranties when data is at rest, in transit and in use with multiple untrusted (potentially adversary) parties. 
 Ideally, a system such as Secretarium's is intended to satisfy some important properties: 
 
-- Secure. The platform and data must be secure against penetration attacks that aim at gaining unauthorised access to data. The Secretarium protocol guarantees that private 
-and confidential data stay under the control of their originator at all times. We follow the principle of end-to-end encryption throughout the life cycle of the data, none 
-of Secretarium engineers or other node runners get access to the data in clear-text.
+- Secure. The platform and data must be secure against penetration attacks that aim at gaining unauthorised access to data. The Secretarium protocol guarantees that private and confidential data stay under the control of their originator at all times. We follow the principle of end-to-end encryption throughout the life cycle of the data, none of Secretarium engineers or other node runners get access to the data in clear-text.
 
-- Integrity-preserving. The platform's results must be tamper-proof including from the party performing the analysis - and must provably yield results as specified. 
-This mechanism is similar to the tamper-proof integrity mechanisms available on a Blockchain.
+- Integrity-preserving. The platform's results must be tamper-proof including from the party performing the analysis - and must provably yield results as specified.  This mechanism is similar to the tamper-proof integrity mechanisms available on a Blockchain.
 
-- Privacy-preserving. Queries results should consist of aggregated data, or simple yes/no answers, and never disclose individuals or companies private information stored 
-in the ledger. This guarantee should hold when analysts obtain and combine outputs for multiple queries.
+- Privacy-preserving. Queries results should consist of aggregated data, or simple yes/no answers, and never disclose individuals or companies private information stored in the ledger. This guarantee should hold when analysts obtain and combine outputs for multiple queries.
 
-- Flexible and Scalable. The platform must support any type of applications and serve a large array of purposes. Data coupled with each application must be segregated 
-to maximise performance. The platform must be multi-layered, modular, and scalable. Each layer consists of loosely-coupled micro-services providing flexibility to the platform.  
-The modularity of the architecture and flexibility in the layers allows for horizontal scaling of each layer independently and enables decoupled upgrade, addition and removal 
-of services with no downtime.
+- Flexible and Scalable. The platform must support any type of applications and serve a large array of purposes. Data coupled with each application must be segregated to maximise performance. The platform must be multi-layered, modular, and scalable. Each layer consists of loosely-coupled micro-services providing flexibility to the platform.   The modularity of the architecture and flexibility in the layers allows for horizontal scaling of each layer independently and enables decoupled upgrade, addition and removal of services with no downtime.
 
-- Simplicity. Secretarium's protocol is designed to facilitate integration with existing systems, especially to allow recent commonly used internet browsers to serve 
-natively as clients. On top of proposing modern C++ as a language to program applications, Secretarium's intention is also to allow programmers to code in simple and accessible 
-languages such as Javascript.
+- Simplicity. Secretarium's protocol is designed to facilitate integration with existing systems, especially to allow recent commonly used internet browsers to serve natively as clients. On top of proposing modern C++ as a language to program applications, Secretarium's intention is also to allow programmers to code in simple and accessible languages such as Javascript.
 
 
 Secretarium applications are hosted on an internet-like network, where applications can be public or privately owned. To facilitate the development of distributed applications, 
