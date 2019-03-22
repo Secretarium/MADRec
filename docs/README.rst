@@ -12,7 +12,5 @@ Snapshots
 =========
 
 .. image:: _static/snapshot.png
+   :align: center
    :alt: Excel Snapshot
-
-   Excel Snapshot
-
