@@ -3,12 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MADRec's documentation!
+Welcome to MADRec by Secretarium's documentation!
 ==================================
 
 .. include:: ../README.rst
 
-|
 |
 
 Table of Contents
