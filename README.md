@@ -1,9 +1,9 @@
-# Secretarium.FEDRA
-.Net helpers for the Fully Encrypted Data Reconciliation Application (FEDRA)
+# Secretarium.DANIE
+.Net helpers for the DANIE application
 Includes Ms Excel Add-in based on ExcelDNA
 
 # Instructions
-See https://github.com/Secretarium/FEDRA/wiki/Instructions
+See https://github.com/Secretarium/DANIE/wiki/Instructions
 
 # Snapshots
-![Excel Snapshot](https://github.com/Secretarium/FEDRA/blob/master/Github/snapshot.png)
+![Excel Snapshot](https://github.com/Secretarium/DANIE/blob/master/Github/snapshot.png)
